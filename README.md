@@ -1,6 +1,3 @@
-# CMPE239StackOverFlow
-
-
 # Problem Statement:
 
 One advantage of large scale collaborative sites like Wikipedia and StackOverflow is the speed at which new information accumulates. Some questions on StackOverflow seemed to get answered immediately while others sit around for a while. As you are writing your question, it would be cool to have an idea of how long it might take to get answered. How well can you predict the time until a question gets answered? This will likely depend on the subject matter of the question, since some programming communities are more active than others.
